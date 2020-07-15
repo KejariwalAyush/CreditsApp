@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1019681650544",
+    "firebase_url": "https://creditsapp-23ab2.firebaseio.com",
+    "project_id": "creditsapp-23ab2",
+    "storage_bucket": "creditsapp-23ab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019681650544:android:3af77e3c59e1c2942441b5",
+        "android_client_info": {
+          "package_name": "com.example.rewards_converter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019681650544-dqc8ve577pds3mcim8m59l0ea1vnljh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rewards_converter",
+            "certificate_hash": "eea69ea58db6cc7025fac59af20b8c42425c22a8"
+          }
+        },
+        {
+          "client_id": "1019681650544-u7ludce4mjau2hsarg4abkb5dpe04s8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgqMkVpr30AX8IK0ciSBz1opTa8NM_WgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019681650544-u7ludce4mjau2hsarg4abkb5dpe04s8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
